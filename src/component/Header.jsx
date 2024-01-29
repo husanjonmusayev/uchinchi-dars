@@ -2,7 +2,7 @@ export default function Header() {
   return (
     <header>
       <a href="#">
-        <img src="/public/Logo.png " alt="web_site_logo" />
+        <img src="/logo.png" alt="logo" />
       </a>
 
       <nav>

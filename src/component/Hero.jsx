@@ -18,7 +18,7 @@ export default function Hero() {
         </a>
       </div>
       <div className="imgSection">
-        <img src="/public/Group 476.png" alt="hero_img" />
+        <img src="/heroimg.png" alt="hero_img" />
       </div>
     </div>
   );
